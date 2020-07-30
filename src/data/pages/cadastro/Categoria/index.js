@@ -7,7 +7,7 @@ function CadastroCategotira() {
     return(
         <PageDefault>
             <h1>Cadastro de Categotira</h1>
-
+                
             <Link to="/">
                 Ir pra Home
             </Link>
